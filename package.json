@@ -45,10 +45,10 @@
 	},
 	"pnpm": {
 		"overrides": {
-			"estree-walker": "3.0.3"
+			"estree-walker": "2.0.2"
 		}
 	},
 	"resolutions": {
-		"estree-walker": "3.0.3"
+		"estree-walker": "2.0.2"
 	}
 }
