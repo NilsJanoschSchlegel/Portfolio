@@ -39,6 +39,7 @@
 	},
 	"dependencies": {
 		"bits-ui": "^2.9.4",
+		"gsap": "^3.13.0",
 		"phosphor-svelte": "^3.0.1",
 		"tailwindcss-animate": "^1.0.7"
 	}
