@@ -42,5 +42,13 @@
 		"gsap": "^3.13.0",
 		"phosphor-svelte": "^3.0.1",
 		"tailwindcss-animate": "^1.0.7"
+	},
+	"pnpm": {
+		"overrides": {
+			"estree-walker": "3.3.0"
+		}
+	},
+	"resolutions": {
+		"estree-walker": "3.3.0"
 	}
 }
